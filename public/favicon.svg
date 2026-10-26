@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0b1220" />
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#42e8f5" stroke-opacity="0.55" stroke-width="2" />
+
+  <!-- Lane dashes on both sides -->
+  <g fill="#42e8f5" opacity="0.65">
+    <rect x="9" y="13" width="3" height="11" rx="1.5" />
+    <rect x="9" y="30" width="3" height="11" rx="1.5" />
+    <rect x="9" y="47" width="3" height="9" rx="1.5" />
+    <rect x="52" y="13" width="3" height="11" rx="1.5" />
+    <rect x="52" y="30" width="3" height="11" rx="1.5" />
+    <rect x="52" y="47" width="3" height="9" rx="1.5" />
+  </g>
+
+  <!-- Player car, seen from above -->
+  <rect x="22" y="10" width="20" height="44" rx="9" fill="#39ff88" />
+  <rect x="27" y="24" width="10" height="14" rx="4" fill="#0b1220" fill-opacity="0.85" />
+  <rect x="25" y="14" width="5" height="3" rx="1.5" fill="#e8fffb" />
+  <rect x="34" y="14" width="5" height="3" rx="1.5" fill="#e8fffb" />
+  <rect x="25" y="47" width="5" height="3" rx="1.5" fill="#ff3b3b" />
+  <rect x="34" y="47" width="5" height="3" rx="1.5" fill="#ff3b3b" />
+</svg>
