@@ -462,7 +462,7 @@ ui.innerHTML = `
     <div class="hud-identity">
       <div class="hud-brand">
         <span class="hud-mark"></span>
-        <span class="hud-brand-text">Neon Runner</span>
+        <span class="hud-brand-text">Neon Car Race</span>
         <span class="hud-tag">Endless Traffic</span>
       </div>
 

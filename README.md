@@ -1,4 +1,4 @@
-# Neon Runner 🏎️
+# Neon Car Race 🏎️
 
 An endless traffic-dodging 3D game built with **Three.js** and **Vite**. Race a neon car down a three-lane highway, weave through oncoming traffic, and survive as long as you can while the speed climbs. All sound is synthesized in real time with the Web Audio API — no audio assets required.
 
@@ -124,8 +124,15 @@ Runs in any modern browser with WebGL and Web Audio API support (recent Chrome, 
 
 ## 📝 Notes
 
-- The project is currently marked `private` in `package.json` with no license specified. Add a `LICENSE` file if you intend to distribute it.
 - All 3D models (cars, pylons, road) are built from primitive geometries — no external model files are loaded.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+Copyright (c) 2026 Sujon Ahmed. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, provided the copyright and permission notice are included.
 
 ---
 
